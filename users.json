@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Riya",
+    "city": "Pune"
+  },
+  {
+    "id": 3,
+    "name": "Rahul",
+    "city": "mumbai"
+  },
+  {
+    "id": 4,
+    "name": "john",
+    "city": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "pankaj",
+    "city": "Pune"
+  },
+  {
+    "id": 6,
+    "name": "Raju",
+    "city": "mumbai"
+  },
+  {
+    "id": 7,
+    "name": "Ramesh",
+    "city": "Rajisthan"
+  },
+  {
+    "id": 8,
+    "name": "Riya",
+    "city": "Banglore"
+  },
+  {
+    "id": 9,
+    "name": "Aryan",
+    "city": "mumbai"
+  },
+  {
+    "id": 10,
+    "name": "pooja",
+    "city": "dehradune"
+  }
+ 
+]
